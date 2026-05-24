@@ -1,3 +1,7 @@
 # CRUD Application using Vue, Express & Supabase
 
-Author: Vernyll Jan P. Asis
+Members:
+- PANTIG, EARL JOSH E
+- ANTIGUA, JAMIA RYZA M.
+- BERNALTE, MARIENELLA KRISSELLE D.
+- OSTING, REANA A.
